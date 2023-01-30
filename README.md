@@ -28,7 +28,7 @@
 
 <br>
 
-### frameworks: Android Nativo,
+### frameworks:
 
 <div style="display: inline_block">
     <img align="" alt="androidNativo" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
