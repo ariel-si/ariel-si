@@ -38,7 +38,3 @@
 </div>
 
 <br>
-
-### Estatísticas do meu GitHub:
-
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ariel-si&show_icons=true&theme=transparent)
