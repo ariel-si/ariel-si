@@ -56,9 +56,8 @@ Tenho uma abordagem prática: identificar problemas, estruturar soluções e aut
 ### 📊 Feedback Público
 Sistema voltado para coleta e visualização de feedbacks operacionais, com foco em melhoria contínua e transparência.
 
-**Objetivo:** Centralizar feedbacks e facilitar tomada de decisão  
-**Stack:** (definir)  
-🔗 (adicionar link)
+**Objetivo:** Centralizar feedbacks e facilitar tomada de decisão    
+🔗 github.com/ariel-si/feedback_publico
 
 ---
 
